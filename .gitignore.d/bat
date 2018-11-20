@@ -1,0 +1,6 @@
+*
+!/.config
+!/.config/bat
+!/.config/bat/batrc
+!/.gitignore.d
+!/.gitignore.d/bat
