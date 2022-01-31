@@ -1,9 +1,4 @@
 *
-!/.config
-!/.config/bat
 !/.config/bat/batrc
-!/.config/bat/themes
-!/.config/bat/themes/dimmed-monokai
 !/.config/bat/themes/dimmed-monokai/dimmed-monokai.tmTheme
-!/.gitignore.d
 !/.gitignore.d/bat
